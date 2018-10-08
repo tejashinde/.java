@@ -1,0 +1,7 @@
+What is JVM?;JVM is Java virtual machine
+What is JDK?;JDK is Java development kit
+What is a class?;A class is a blueprint for an object
+Strings are immutable?;True
+OOP stands for?;Object oriented programming
+President of Tanznia?;John Magufuli
+Grand Central Terminal, Park Avenue, New York is the world's;largest railway station
